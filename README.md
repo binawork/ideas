@@ -4,7 +4,7 @@ They are stored as Issues, so they can be sorted based on
 
 We are choosing to store ideas on GitHub becasue:
 1. Lots of potential developers to be involved here in voting and/or discussion
-2. Ideas can be 👍/👎 voted
+2. Ideas can be 👍/👎 voted: https://github.com/binawork/ideas/issues?q=is%3Aissue+is%3Aopen+sort%3Areactions-%2B1-desc
 3. Ideas can be organized used simple tags
 
 ## TODO
